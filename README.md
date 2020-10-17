@@ -1,6 +1,6 @@
 ## CNN Model Build-1
 - CNN 논문 리뷰
-- 파이토치를 이용해 CNN 모델 코드 리뷰
+- 파이토치로 구현된 CNN 모델 코드 리뷰
 
 ## Model list
 1. LeNet
