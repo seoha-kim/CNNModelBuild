@@ -8,3 +8,6 @@
 3. VggNet
 4. GoogleNet
 5. ResNet
+
+## Reference
+1. https://drive.google.com/drive/folders/12zphz36T6gEJac6WScnvRN27-f1tfHO1
