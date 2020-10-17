@@ -6,13 +6,11 @@
 ## Model list
 1. LeNet
 2. AlexNet
-3. GoogleLeNet
-4. VggNet
-5. Inception
-6. ResNet
-7. RCNN
-8. Fast-RCNN
-9. Faster-RCNN
-10. Mask-RCNN
-11. YOLO
-12. U-Net
+3. VggNet
+4. GoogleNet
+5. ResNet
+6. RCNN
+7. Fast-RCNN
+8. Faster-RCNN
+9. Mask-RCNN
+10. U-Net
